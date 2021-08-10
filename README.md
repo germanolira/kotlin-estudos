@@ -10,3 +10,7 @@ Estudos sobre Kotlin
 # UX em Mobile
 
 [Laws of UX](https://lawsofux.com/)
+
+# Anotações
+
+- Calendar dayview
