@@ -23,7 +23,16 @@ Exemplos de código em Kotlin podem ser encontrados no [site oficial](https://ko
 
 ## Links
 
-
 * [Site oficial](https://kotlinlang.org/)
 * [Site oficial](https://kotlinlang.org/docs/tutorials/kotlin-for-java-developers.html)
 * [Site oficial](https://kotlinlang.org/docs/reference/kotlin-for-java-developers.html)
+
+## A história do Kotlin para Android
+
+
+A história do Kotlin para Android é muito importante e vai ser o guia de todos que querem aprender Kotlin para Android.
+
+## Guia de estudo
+
+
+A [Guia de estudo](https://kotlinlang.org/docs/tutorials/kotlin-for-android-developers.html) do Kotlin para Android é uma coleção de tutoriais e exemplos de código que podem ser usados para aprender Kotlin para Android.
